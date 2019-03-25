@@ -1,0 +1,15 @@
+{
+    "name": "microbit Music Melodies",
+    "version": "0.0.1",
+    "description": "Just some new melodies to add to micro:bit",
+    "license": "none",
+    "dependencies": {
+        "core": "*",
+    },
+    "files": [
+        "README.md",
+        "melodies.ts",
+    ],
+    "testFiles": [],
+    "public": true
+}
